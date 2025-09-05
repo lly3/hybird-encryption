@@ -28,6 +28,7 @@
 ## Project setup
 
 ```bash
+$ cp .env.dev .env
 $ npm install
 ```
 
