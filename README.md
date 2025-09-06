@@ -23,11 +23,17 @@
 
 ## Description
 
+server start at port 3000
+- GET /api-docs (swaggers)
+- POST /get-encrypt-data
+- POST /get-decrypt-data
+
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Project setup
 
 ```bash
+$ cp .env.dev .env
 $ npm install
 ```
 
